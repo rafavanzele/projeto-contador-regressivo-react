@@ -40,7 +40,7 @@
     padding: 0.8rem;
     cursor: pointer;
     opacity: 0.8;
-    transition: 0.4s;
+    transition: 0.3s;
 }
 
 .countdown-form input[type='submit']:hover {
